@@ -1,16 +1,27 @@
-### Hi there 👋
-
-<!--
-**mhkr123/mhkr123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 
+My self M.Hemanth Krishna Reddy and my
+Project is about food delivery website 
+and it applications. Here is in brief
+about our projectAn online ordering 
+system is software that lets your 
+restaurant accept 
+and manage orders placed online.
+An online food ordering system 
+generally has two components – a website 
+or app that allows customers to
+view the menu and place an order, and 
+an admin interface that enables the
+restaurant to receive and fulfil
+customer orders.Online food
+ordering systems are a
+great option for restaurants
+looking to respond to a rapidly
+changing operating environment – and
+most are relatively easy to set up.
+If you’ve been considering
+adding an online sales channel
+to your restaurant but you’re
+not sure where to start, read on
+for insights and tips on choosing
+the right online ordering system
+for your business.
