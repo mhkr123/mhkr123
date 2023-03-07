@@ -18,10 +18,3 @@ great option for restaurants
 looking to respond to a rapidly
 changing operating environment – and
 most are relatively easy to set up.
-If you’ve been considering
-adding an online sales channel
-to your restaurant but you’re
-not sure where to start, read on
-for insights and tips on choosing
-the right online ordering system
-for your business.
